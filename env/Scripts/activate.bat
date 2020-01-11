@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=F:\Learn\Code\Python Django Practice\env"
+set "VIRTUAL_ENV=F:\Learn\Code\Python_Django_Practice\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
